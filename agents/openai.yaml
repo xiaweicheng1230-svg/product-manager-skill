@@ -1,0 +1,6 @@
+interface:
+  display_name: "产品经理skill"
+  short_description: "生成和评审软硬件产品全流程需求、技术对接与项目交付文档框架"
+  default_prompt: "使用 $product-manager 选择并编写当前项目需要的产品文档。"
+policy:
+  allow_implicit_invocation: true
