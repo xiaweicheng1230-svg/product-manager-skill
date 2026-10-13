@@ -17,6 +17,7 @@ description: Create, restructure, review, or plan product-management document se
 
 ## 文档路线
 
+- 规划一个产品从立项、开发、发布到迭代或退出的完整过程：读取 [references/product-lifecycle.md](references/product-lifecycle.md)。
 - 市场、用户、商业和产品机会：读取 [references/discovery-frameworks.md](references/discovery-frameworks.md)。
 - 功能大纲、产品需求、MVP和版本规划：读取 [references/product-definition-frameworks.md](references/product-definition-frameworks.md)。
 - 信息架构、用户流程、手机端、小程序和设备界面：读取 [references/interaction-frameworks.md](references/interaction-frameworks.md)。
